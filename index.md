@@ -1,9 +1,8 @@
 
----
-layout: default
----
 
-Suvadip Batabyal is working as an Assistant Professor in the department of Computer Science & Engineering at National Institute of Technology, Durgapur, India.
+Suvadip Batabyal is working as an Assistant Professor in the department of Computer Science & Engineering at National Institute of Technology, Durgapur, India. He completed his Ph.D. from Jadavpur University in 2016.
+
+**Areas of research:** 5G and B5G Networks. **Specific domains:** Device-to-device communication, Quality-of-Experience and Video Streaming, Content caching, Integrated Sensing and Communication (ISAC), Integrated Access and Backhaul. 
 
 [Link to another page](./another-page.html).
 

@@ -5,7 +5,9 @@ Suvadip Batabyal is working as an Assistant Professor in the department of Compu
 **Areas of research:** 5G and B5G Networks. **Specific domains:** Device-to-device communication, Quality-of-Experience and Video Streaming, Content caching, Integrated Sensing and Communication (ISAC), Integrated Access and Backhaul.
 
 **Publications:**
+
 **Journals:**
+
 **Conferences:**
 
 [Link to another page](./another-page.html).

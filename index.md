@@ -7,7 +7,7 @@ Suvadip Batabyal is working as an Assistant Professor in the department of Compu
 **Publications:**
 
 **2025:**
-1. [C] S. Batabyal, "Simulating Application Driven Mobile D2D underlay Networks using Gym API," 2025 17th International Conference on COMmunication Systems and NETworks (COMSNETS), Bengaluru, India, 2025, pp. 284-291, doi: 10.1109/COMSNETS63942.2025.10885633.
+1. [C] **S. Batabyal**, "Simulating Application Driven Mobile D2D underlay Networks using Gym API," 2025 17th International Conference on COMmunication Systems and NETworks (COMSNETS), Bengaluru, India, 2025, pp. 284-291, doi: 10.1109/COMSNETS63942.2025.10885633.
 2. [C] Wiopt
 
 **2024:**

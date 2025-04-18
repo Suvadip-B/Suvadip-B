@@ -3,7 +3,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Suvadip Batabyal is working as an Assistant Professor in the department of Computer Science & Engineering at National Institute of Technology, Durgapur, India.
 
 [Link to another page](./another-page.html).
 
